@@ -17,6 +17,7 @@
 
 ## 版本发布记录
 
+* v2.0.4（2026-08-19）：新增 DeepSeek 配置支持，可选择关闭、High 或 Max 思考额度。
 * v2.0.3（2026-08-18）：优化 Inspector Chat 的流式渲染、会话锚定与键盘交互体验
 * v2.0.2（2026-08-15）：Generation Parameters 支持直接输入两位小数。
 * v2.0（2026-08-15）：支持 agent 对话、medXiv 和 BioXiv
