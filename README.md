@@ -17,6 +17,7 @@
 
 ## 版本发布记录
 
+* v2.0.7（2026-08-29）：Notes aggregation improvements and card action typography refinements.
 * v2.0.6（2026-08-28）：新增 macOS 应用内更新支持，可在应用菜单中检查更新；发布包现已使用 Sparkle 签名并通过公证验证。
 * v2.0.5（2026-08-25）：新增未读论文筛选和百炼深度思考控制；LLM 阅读卡片支持 Markdown 渲染，并优化聊天区紧凑排版。
 * v2.0.4（2026-08-19）：新增 DeepSeek 配置支持，可选择关闭、High 或 Max 思考额度。
